@@ -1,0 +1,44 @@
+.campo-texto{
+    margin: 24px 0px;
+}
+
+label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;   
+}
+
+input{
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    padding: 24px;
+    font-size: 24px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin: 81px 0; 
+}
+
+.formulario form{
+    max-width: 80%;
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    padding: 36 64px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+}
+
+.botao{
+    background-color: #FFD700;
+    width: 400px;
+    border: none;
+    padding: 24px;
+    font-size: 24px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 24px;
+}
