@@ -1,0 +1,1 @@
+console.log((10+5+9)/3);//média aritimética

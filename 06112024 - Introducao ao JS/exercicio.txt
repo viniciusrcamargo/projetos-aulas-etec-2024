@@ -1,0 +1,10 @@
+salarioBruto = 10000
+inss = 
+planoSaude = 244
+auxilioGas = 80
+parcelaDecimo = 
+bonusVendas = 
+
+salarioLiquido = X
+
+O salário Líquido é = X
